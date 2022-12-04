@@ -1,0 +1,496 @@
+/* General Styling************/
+body {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-synthesis: none;
+}
+
+a {
+  color: #06c;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.white {
+  color: #fff;
+}
+
+.black {
+  color: #1d1d1f;
+}
+
+.grey {
+  color: #86868b;
+}
+
+.top-50 {
+  margin-top: 50px;
+}
+
+.top-100 {
+  margin-top: 100px;
+}
+
+/* Header Style starts here*********** */
+.nav-wrapper {
+  background: rgba(0, 0, 0, 0.8);
+  font-size: 0.85em;
+  font-weight: 200;
+}
+
+.nav-wrapper ul li a {
+  color: #fff;
+}
+
+.navbar-toggler {
+  color: #fff;
+}
+
+.nav-item {
+  text-align: left !important;
+  padding: 4px 0;
+  border-bottom: 1px solid #4b4b4b;
+}
+
+/* common back ground *********** */
+.BackGround-3 {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.BackGround {
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+/* *********** *********** */
+
+/* Anchor links section ******** */
+.body-section ul li a::after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 5px;
+}
+.stream-link a {
+  text-decoration: none;
+  color: #1d1d1f;
+}
+
+.stream-link a::after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 5px;
+}
+.unicef-text a {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 4px;
+  color: #06c;
+}
+.unicef-text a::after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f08e";
+  padding-left: 5px;
+  color: #06c;
+}
+.Yellow-link li a {
+  color: #a6ff00;
+}
+.Yellow-link-2 a:after {
+  font-family: "FontAwesome";
+  content: "\f08e";
+  margin-left: 5px;
+}
+.Yellow-link-1 a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 5px;
+}
+/* ************************ */
+
+/* Unicef section starts here ******** */
+.unicef-icon-text {
+  padding: 75px 0 15px;
+  background-color: #f5f5f7;
+}
+.unicef-icon-text div {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.unicef-icon {
+  background-image: url(../images/icons/unicef_logo_dark_small.png);
+  background-repeat: no-repeat;
+  background-size: 106px 28px;
+  height: 28px;
+  width: 108px;
+}
+.unicef-text {
+  width: 275px;
+}
+
+/* Macbook air section starts here******** */
+.super-air-m2 {
+  background-image: url(../images/icons/logo_Supercharge_large.png);
+  height: 29px;
+  width: 178px;
+  background-size: 178px 29px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.macbook-air {
+  background-image: url(../images/home/macbookair_small_2x.png);
+  max-width: 734px;
+  min-height: 508px;
+  background-size: 734px 548px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-color: #fbfbfd;
+}
+.macbook-air h1 {
+  font-size: 30px;
+}
+.macbook-air-text {
+  text-align: center;
+  padding-top: 45px;
+}
+
+/* MacBook Pro section ****************/
+.MacBook-Pro-13 {
+  background-image: url(../images/home/macbopk13__large.jpg);
+  height: 620px;
+}
+.MacBook-Pro-13 h1 {
+  color: #fff;
+}
+
+/* iPhone-13  starts here **********/
+.iPhone-13 {
+  background-image: url(../images/home/iphone13_small_2x.jpg);
+  height: 768px;
+}
+.iPhone-13 h1 {
+  font-size: 30px;
+}
+
+/* Watch and apple card starts here *********/
+.iPhone-13-Pro {
+  background-image: url(../images/home/iphone13pro__small_2x.jpg);
+  height: 548px;
+  background-size: 734px 548px;
+  background-position: center;
+}
+.Apple-Watch-series {
+  background-image: url(../images/home/watch_lsmall_2x.jpg);
+  height: 500px;
+}
+
+/* Apple Tv and AirPods starts here*/
+
+.iPad-Air {
+  background-image: url(../images/home/ipadair_small_2x.jpg);
+  height: 600px;
+  color: #fff;
+  font-size: 20px;
+}
+.Apple-Fitness {
+  background-image: url(../images/home/girl-katy_small.jpg);
+  height: 600px;
+  color: #fff;
+  font-size: 20px;
+}
+
+/* Apple card and apple Tv starts here*/
+.Apple-Card {
+  background-image: url(../images/home/tile_card_small.jpg);
+  height: 600px;
+}
+.Apple-TV {
+  background-image: url(../images/home/cha_cha__small.jpg);
+  height: 600px;
+}
+/* Apple card and apple Tv ends here*/
+
+/* ********************** */
+/*  Media queries section start here */
+/* ********************** */
+
+@media (min-width: 768px) {
+  /* Unicef Section */
+  .unicef-text {
+    width: 100%;
+  }
+  .unicef-icon {
+    background-image: url(../images/icons/unicef_logo_dark__large.png);
+    background-position-x: right;
+  }
+  /* ********* */
+  /* SuperCharged M2 */
+  .super-air-m2 {
+    background-image: url(../images/icons/logo_Supercgarge_small.png);
+    height: 29px;
+    width: 178px;
+    background-size: 178px 29px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  /* SuperCharged M2 */
+
+  /* MacBook Air Section */
+  .macbook-air {
+    background-image: url(../images/home/hero_macbookair__medium.png);
+    max-width: 1068px;
+    min-height: 518px;
+    background-size: 1068px 548px;
+    background-repeat: no-repeat;
+  }
+  .macbook-air-text h1 {
+    font-size: 60px;
+  }
+  /* ************ */
+
+  /* MacBook pro13 */
+  .MacBook-Pro-13 {
+    background-image: url(../images/home/MacBook13_small.jpg);
+  }
+  /* *************** */
+
+  /* iPhone And Apple watch */
+  .iPhone-13-Pro {
+    background-image: url(../images/home/hero_iphone13_large.jpg);
+  }
+  .Apple-Watch-series {
+    background-image: url(../images/home/Apple_watch__large.jpg);
+    background-position: bottom;
+  }
+  /* ********** */
+
+  /* iPhone 13 ********* */
+  .iPhone-13 {
+    background-image: url(../images/home/hero_iphone13_large.jpg);
+    height: 668px;
+  }
+  .iPhone-13 h3 {
+    font-size: 45px;
+  }
+  .iPhone-13 p {
+    font-size: 25px;
+  }
+  /* ************ */
+
+  /* iPad air Apple fitness section */
+  .iPad-Air {
+    background-image: url(../images/home/ipadair_avail__large.jpg);
+    height: 600px;
+    color: #fff;
+  }
+  .Apple-Fitness {
+    background-image: url(../images/home/girl-katy_small_2x.jpg);
+    height: 600px;
+    color: #fff;
+  }
+  /* ********** */
+
+  /* Apple card and Apple Tv */
+  .Apple-Card {
+    background-image: url(../images/home/tile-card_small_2x.jpg);
+    height: 600px;
+  }
+  .Apple-TV {
+    background-image: url(../images/home/cha_cha__small_2x.jpg);
+    height: 600px;
+  }
+}
+
+/* mediaQuerie Large size section */
+@media (min-width: 992px) {
+  /* MacBook Air Section */
+  .macbook-air {
+    background-image: none;
+  }
+  .macbook-air {
+    background-image: url(../images/home/hero_macbookair__large.png);
+    max-width: 3008px;
+    height: 380px;
+    background-size: 2008px auto;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .macbook-air-text {
+    padding-top: 180px;
+    padding-right: 500px;
+  }
+
+  .macbook-air-text h1 {
+    font-size: 60px;
+  }
+  /* ******************* */
+  /* iPhone pro 13 section */
+  .iPhone-13-Pro {
+    background-image: url(../images/home/iphone13pro__small_2x.jpg);
+  }
+}
+/* Media querie ends here***************** */
+
+/* Footer Styling */
+.footer-wrapper {
+  background-color: #f5f5f7;
+  color: #86868b;
+  font-size: 0.7em;
+}
+
+.footer-wrapper ul {
+  list-style: none;
+  padding-bottom: 10px;
+  padding-inline-start: 0px;
+}
+
+.footer-wrapper ul a {
+  color: #515154;
+}
+
+.my-apple-wrapper {
+  padding-bottom: 15px;
+  margin-top: 10px;
+}
+
+.copyright {
+  margin-top: 15px;
+}
+
+.footer-country {
+  margin-top: 8px;
+}
+
+.flag-wrapper {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 5px;
+}
+
+.footer-country-name {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.footer-links-terms ul {
+  display: flex;
+}
+
+.footer-links-terms ul li {
+  padding: 0 10px;
+  border-right: 1px solid #d2d2d7;
+}
+
+.footer-links-terms ul li:first-child {
+  padding-left: 0;
+}
+
+.footer-links-terms ul li:last-child {
+  border-right: 0;
+}
+
+.footer-links-wrapper h3 {
+  font-size: 12px;
+  font-weight: 600;
+  color: #1d1d1f;
+}
+
+.footer-wrapper ul li {
+  padding: 4px 0;
+}
+
+.upper-text-container {
+  border-bottom: 1px solid #d2d2d7;
+  padding: 17px 0 10px;
+  margin-bottom: 20px;
+}
+
+.upper-text-container a {
+  color: #515154;
+}
+
+/*Media Query*/
+/* Footer */
+@media (max-width: 768px) {
+  .footer-links-wrapper ul {
+    display: none;
+  }
+
+  .footer-links-wrapper h3 {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .footer-links-wrapper h3:after {
+    font-family: "FontAwesome";
+    content: "\f067";
+    padding-left: 10px;
+    position: absolute;
+    right: 25px;
+  }
+  .footer-links-wrapper h3.expanded:after {
+    font-family: "FontAwesome";
+    content: "\f00d";
+    padding-left: 10px;
+    position: absolute;
+    right: 25px;
+  }
+}
+
+@media (min-width: 768px) {
+  /*Nav bar*/
+  .nav-item {
+    text-align: center !important;
+    padding: 0;
+    border-bottom: 0px;
+  }
+
+  /*Footer styling*/
+  .my-apple-wrapper {
+    border-bottom: 1px solid #d2d2d7;
+  }
+}
+
+@media (min-width: 992px) {
+  /*Footer styling*/
+  .copyright {
+    margin-top: 10px;
+  }
+
+  .footer-country {
+    margin-top: 10px;
+  }
+
+  .footer-links-terms {
+    margin-top: 10px;
+  }
+}

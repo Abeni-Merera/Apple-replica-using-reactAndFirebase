@@ -1,0 +1,318 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "8NqCroS-Rf4PB66Hd-kx0E9H1ns",
+    "nextPageToken": "CAkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 239,
+      "resultsPerPage": 9
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EwVXyR_wgwV9O-PXr0KtSFqwhRU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "175GAmhgzSk"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-30T15:59:31Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "iPhone 14 Pro | Chase | Apple",
+          "description": "iPhone 14 Pro. Our most Pro camera ever. Featuring an all-new 48MP Main camera with up to 4x resolution, Action mode for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/175GAmhgzSk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/175GAmhgzSk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/175GAmhgzSk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-30T15:59:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OGtu_5sEBwDQU5mZXhwaSDG9zec",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZqqraWbJWjA"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-09T18:02:15Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "Introducing Crash Detection | iPhone 14 Pro | Apple",
+          "description": "iPhone 14 Pro comes with Crash Detection, a vital new safety feature that can detect a severe car crash and automatically call for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZqqraWbJWjA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZqqraWbJWjA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZqqraWbJWjA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-09T18:02:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QvX_lMPmUWI0ObDzc-c9WFPLobc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ehbmC1irQuY"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-07T20:37:41Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "iPhone 14 &amp; iPhone 14 Plus | Big and Bigger | Apple",
+          "description": "Subject to availability. iPhone 14 Plus available in October. Introducing iPhone 14 and iPhone 14 Plus. Two great sizes, Big (6.1”) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ehbmC1irQuY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ehbmC1irQuY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ehbmC1irQuY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-07T20:37:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yMK7PeP0gGaaWPegHAsfoFbhb5w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UfawgQJICU8"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-07T19:54:36Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "Introducing Apple Watch Series 8 | Apple",
+          "description": "Car Crash Detection. A temperature sensor for deeper insights into women's health. An enhanced Workout app with advanced ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UfawgQJICU8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UfawgQJICU8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UfawgQJICU8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-07T19:54:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZmvGvwya-3OueGasp4PDf_AYgmM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cgpSBjWutGY"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-07T19:48:44Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "A Guided Tour of iPhone 14 &amp; iPhone 14 Pro | Apple",
+          "description": "Find a new iPhone 14 that's right for you. We've headed to the Big Apple to tell you all the big news about iPhone 14, iPhone 14 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cgpSBjWutGY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cgpSBjWutGY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cgpSBjWutGY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-07T19:48:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ec9hQlNIB8mni1RMiBxADZ-XuFo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WuEH265pUy4"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-07T19:46:22Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "Introducing Dynamic Island on iPhone 14 Pro | Apple",
+          "description": "Welcome to a shape-shifting, multitasking, head-turning, game-changing iPhone experience. Dynamic Island blends fun and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WuEH265pUy4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WuEH265pUy4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WuEH265pUy4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-07T19:46:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gWWCohvgSUyk5dSKCUu5DnfihrM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fOHj5kGU4fY"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-07T19:43:03Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "Apple Watch | Dear Apple | Apple",
+          "description": "A New Hampshire man is rescued after falling into a frozen river while ice skating. A high school senior escapes a visit from a bear ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fOHj5kGU4fY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fOHj5kGU4fY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fOHj5kGU4fY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-07T19:43:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q3zHFUlhoBAsIq5tYVPDBUq3TYY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "41EdCXjotmo"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-07T19:37:35Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "Introducing Emergency SOS via satellite | Apple",
+          "description": "iPhone 14 Plus available in October. Emergency service, even without service. iPhone 14 and iPhone 14 Pro let you text ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/41EdCXjotmo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/41EdCXjotmo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/41EdCXjotmo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-07T19:37:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gdYkPh9GTsSBah4P9_dCO5KDkbk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TBTgQbjRsqg"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-07T19:14:49Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "AirPods Pro | Rebuilt from the sound up | Apple",
+          "description": "The all-new AirPods Pro have been completely reengineered for breakthrough sound. A next generation H2 Apple-designed ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TBTgQbjRsqg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TBTgQbjRsqg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TBTgQbjRsqg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-07T19:14:49Z"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+
+.learnMore{
+    align-items: center;
+    width: 60vw;
+}
+.learnMore_desc{ 
+    font-size: 15px; 
+    font-weight: 400;
+ }
+
+.learnMore_title{
+    font-size: 30px; 
+    font-weight: 600;
+}
